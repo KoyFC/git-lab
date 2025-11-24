@@ -110,7 +110,6 @@ By the end of this practice, you will:
      - ✅ Require approvals (set to 1)
      - ✅ Dismiss stale pull request approvals when new commits are pushed
      - ✅ Block force pushes
-     - ✅ Block force pushes
       - ✅ Press **Add checks** and look for **Check Menu Quality**. If this check does not appear, make sure that, under **Actions**, the **Check Menu Quality** has been executed at least once.
    - Click **Create** at the bottom
 
